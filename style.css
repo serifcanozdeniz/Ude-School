@@ -4,10 +4,6 @@ body::before{
     height: 60px;
 }
 
-#map{
-    height: 600px;
-    width: 100%;
-}
 
 html{
     scroll-behavior: smooth !important;
